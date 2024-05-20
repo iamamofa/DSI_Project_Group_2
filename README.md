@@ -77,7 +77,22 @@ Run ExpansionHunter on each sample to detect repeat expansions. The output will 
 # Install the necessary tools: ```ExpansionHunter, SAMtools, and REViewer.```
 Ensure the reference genome and variant catalog are available in the specified paths.
 Follow the pipeline steps to process each sample.
-Contributors
+
+
+# How to Run the  the script or Pipeline ---- Easy way to run the script
+
+## Instructions to Use the Script
+Save the script as pipeline_script.sh
+
+## Make the script executable:
+``` sh
+chmod +x pipeline_script.sh
+```
+# Run the Pipeline script
+```sh
+ ./pipeline_script.sh ```
+
+# Contributors
 
 - ```Justice Ohene Amofa```
 - ```Comfort Ojedapo```
