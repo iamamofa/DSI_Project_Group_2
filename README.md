@@ -61,17 +61,17 @@ Run ExpansionHunter on each sample to detect repeat expansions. The output will 
 # Normal Samples
 - ERR1955514.bam - Not Pathogenic
 - ERR1955398.bam - Not Pathogenic
-- ERR1955482 - Not Pathogenic (Processed)
-- ERR1955424 - Not Pathogenic (Processed)
+- ERR1955482 - Intermediate (Processed)
+- ERR1955424 - Pathogenic (Processed)
 # Pathogenic Samples
 - ERR1955462 - Pathogenic (Processed)
 ```Details: STR26, STR75, PASS, END=71652202, REF=25, RL=25, RU=A, VARID=FXN_A```
-# Pending Samples
-- ERR1955504
-- ERR1955527
-- ERR1955415
-- ERR1955531
-- ERR1955473
+
+- ERR1955504 *Processed 
+- ERR1955527 *Processed
+- ERR1955415 * Processed
+- ERR1955531  *processed
+- ERR1955473 * Pathogenic
 ## Getting Started
 
 # Install the necessary tools: ```ExpansionHunter, SAMtools, and REViewer.```
