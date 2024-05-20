@@ -56,3 +56,36 @@ Run ExpansionHunter on each sample to detect repeat expansions. The output will 
   ```
 
 
+## Dataset Information
+
+# Normal Samples
+- ERR1955514.bam - Not Pathogenic
+- ERR1955398.bam - Not Pathogenic
+- ERR1955482 - Not Pathogenic (Processed)
+- ERR1955424 - Not Pathogenic (Processed)
+# Pathogenic Samples
+- ERR1955462 - Pathogenic (Processed)
+```Details: STR26, STR75, PASS, END=71652202, REF=25, RL=25, RU=A, VARID=FXN_A```
+# Pending Samples
+- ERR1955504
+- ERR1955527
+- ERR1955415
+- ERR1955531
+- ERR1955473
+## Getting Started
+
+# Install the necessary tools: ```ExpansionHunter, SAMtools, and REViewer.```
+Ensure the reference genome and variant catalog are available in the specified paths.
+Follow the pipeline steps to process each sample.
+Contributors
+
+```Justice Ohene Amofa```
+```Comfort Ojedapo```
+
+
+# License
+This project is licensed under the [License](http://www.apache.org/licenses/) License - see the LICENSE file for details.
+
+## Acknowledgments
+
+``` ```
