@@ -90,7 +90,8 @@ chmod +x pipeline_script.sh
 ```
 # Run the Pipeline script
 ```sh
- ./pipeline_script.sh ```
+ ./pipeline_script.sh
+  ```
 
 # Contributors
 
