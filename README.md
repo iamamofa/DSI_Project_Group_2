@@ -82,7 +82,7 @@ Follow the pipeline steps to process each sample.
 # How to Run the  the script or Pipeline ---- Easy way to run the script
 
 ## Instructions to Use the Script
-Save the script as pipeline_script.sh
+# Save the script as pipeline_script.sh
 
 ## Make the script executable:
 ``` sh
