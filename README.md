@@ -79,8 +79,8 @@ Ensure the reference genome and variant catalog are available in the specified p
 Follow the pipeline steps to process each sample.
 Contributors
 
-```Justice Ohene Amofa```
-```Comfort Ojedapo```
+- ```Justice Ohene Amofa```
+- ```Comfort Ojedapo```
 
 
 # License
